@@ -1,0 +1,24 @@
+name: dice_test
+version: 0.0.1
+description: Material Design Lite 'MDL Text-Only Template'
+author: <Mike> <office@mikemitterer.at>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  browser: any
+
+  mdl: '>=1.0.0 <2.0.0'
+
+  logging: any
+  logging_handlers: any
+  console_log_handler: any
+
+  dice: "^1.6.5"
+
+#  di: ">=3.3.4 <4.0.0"
+#
+#transformers:
+#  - di
